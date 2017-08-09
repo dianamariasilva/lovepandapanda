@@ -1,0 +1,128 @@
+/*
+Colores & tipografía: 
+Verde - #ABE188;
+Rosa - #F78E69;
+font-family: 'Raleway', sans-serif;
+*/
+
+/* Escribe tu código acá debajo */
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Raleway';
+	font-size: 16px;
+	color:white;
+}
+#img1{
+	background: url('../img/uno.jpg');
+	background-size: cover;
+	background-position: center;
+	padding: 50px 0;
+}
+
+.newletter{
+	text-align: right;
+	padding: 10px;
+	padding-right: 30;
+	background-color: #FA8258;
+}
+.newletter h3{
+	font-weight: bolder;
+	font-size: 4rem;
+	line-height: 4rem;
+	padding-top: 40px;
+}
+.newletter h5{
+	font-size: 1.5rem;
+	padding-top: 20px;
+}
+.color {
+	background-color: #8EC641;
+}
+.uno{
+	text-align: left;
+	padding: 0 30px;
+}
+
+.color1{
+	background-color:#8EC641;
+}
+.pandas{
+	margin: 0 auto;
+	background-color: #8EC641 ;
+	width: 60%;
+}
+#img2{
+	background: url('../img/dos.jpg');
+	background-size: cover;
+	background-position: center;
+	padding: 50px 0;
+}
+
+#img3{
+	background: url('../img/tres.jpg');
+	background-size: cover;
+	background-position: center;
+	padding: 50px 0;
+}
+.imagenes{
+	background-color: #ffffff;
+	padding: 5px 10px 5px 10px;
+	margin:2px;
+	float:left;
+	width:200px;
+    text-align:center;
+}
+
+.pandas h2 {
+	font-size: 1.5rem;
+}
+.centrartexto{
+	border: solid white;
+	margin: 30px 400px;
+	padding: 70px;
+	text-align: center;
+	background-color: #FA8258;
+}
+
+p{
+	padding-top: 20px;
+}
+
+.inicio{
+	background-color: transparent;
+	padding: 100px 180px 100px 120px;
+	margin:2px;
+	float:left;
+	width:200px;
+	text-align:center;
+}
+
+.imagenespanda{
+	background-color: #8EC641;
+}
+h1{
+	padding-bottom: 10px;
+	padding-top: 60px;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 3rem;
+	line-height: 3rem;
+}
+
+footer{
+	text-align: right;
+	font-weight: bolder;
+	font-size: 1rem;
+	line-height: 1rem;
+}
+
+table{
+	margin: 100px;
+}
+td,tr{
+	border: double;
+	padding: 50px 80px 50px 60px;
+
+}
